@@ -6,6 +6,10 @@
 
 **My stack**: Python, Django, HTML, CSS, JS
 
+**Connect with me:**
+
+[<img align="left" alt="thomas-newton-2a5037144| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **TomNewton1/TomNewton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

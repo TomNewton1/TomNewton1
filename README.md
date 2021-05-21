@@ -6,6 +6,13 @@
 
 **My stack**: Python, Django, HTML, CSS, JS
 
+You can find me on:
+
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fa"
+  link = "//linkedin.com/in/thomas-newton-2a5037144/"
+
 
 <!--
 **TomNewton1/TomNewton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

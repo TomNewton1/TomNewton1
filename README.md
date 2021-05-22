@@ -1,4 +1,4 @@
-**Hi I'm Tom!** 👋 I'm a self-taught developer with a particular interest in building full stack web applications. 
+**Hi I'm Tom!** 👋  I'm a self-taught full stack developer with a particular interest in building web and SaaS applications. 
 
 - I’m currently working on [sizemysolar.co.uk](https://www.sizemysolar.co.uk/)
 - I’m taking CS50's Web Programming with Python and JavaScript.

@@ -2,8 +2,7 @@
 
 - I’m currently working on [sizemysolar.co.uk](https://www.sizemysolar.co.uk/)
 - I’m taking CS50's Web Programming with Python and JavaScript.
-- Completing my [Full Stack Curriculum](https://github.com/TomNewton1/full_stack_curriculum)
-
+- Completing my [Full Stack Web Development Curriculum](https://github.com/TomNewton1/full_stack_curriculum)
 
 **My stack**: Python, Django, HTML, CSS, JS
 

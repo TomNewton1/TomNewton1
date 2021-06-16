@@ -2,7 +2,7 @@
 
 - I have recently been working on: 
   * [sizemysolar.co.uk](https://www.sizemysolar.co.uk/)
-  * [Auction house](https://auction-house-commerce.herokuapp.com/)
+  * [Auction House](https://auction-house-commerce.herokuapp.com/)
 - I’m taking CS50's Web Programming with Python and JavaScript.
 - Completing my [Full Stack Web Development Curriculum](https://github.com/TomNewton1/full_stack_curriculum)
 

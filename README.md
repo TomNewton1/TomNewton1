@@ -2,11 +2,10 @@
 
 - I have recently been working on: 
   * [sizemysolar.co.uk](https://www.sizemysolar.co.uk/)
+  * [Network](https://www.sizemysolar.co.uk/)
   * [Auction House](https://auction-house-commerce.herokuapp.com/)
   * [Mail](https://github.com/TomNewton1/mail)
   * [Riverlevels Uk](https://riverlevelsuk.herokuapp.com/)
-- I’m taking CS50's Web Programming with Python and JavaScript.
-- Completing my [Full Stack Web Development Curriculum](https://github.com/TomNewton1/full_stack_curriculum)
 - You can find examples of my work at https://tomnewton.io/
 
 **My stack**: Python, Django, HTML, CSS, JS

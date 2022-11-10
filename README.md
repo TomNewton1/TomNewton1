@@ -1,7 +1,7 @@
 **Hi I'm Tom!** 👋  I'm a self-taught full stack developer with a particular interest in building web and SaaS applications.
 
 - I have recently been working on: 
-  * [fretbuddy.io]([https://github.com/TomNewton1/size_my_solar-2](https://fretbuddy.io/))
+  * [FretBuddy](https://fretbuddy.io/)
   * [sizemysolar.co.uk](https://github.com/TomNewton1/size_my_solar-2)
   * [Network](https://github.com/TomNewton1/network)
   * [Auction House](https://auction-house-commerce.herokuapp.com/)

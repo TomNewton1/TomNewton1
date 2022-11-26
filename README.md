@@ -1,7 +1,9 @@
-**Hi I'm Tom!** 👋  I'm a self-taught full stack developer with a particular interest in building web and SaaS applications.
+**Hi I'm Tom!** 👋  I'm a software developer currenlty working in the wind industry at ONYX Insight.
 
-- I have recently been working on: 
+- In my spare time I am working on: 
   * [FretBuddy](https://fretbuddy.io/)
+
+- Other Projects: 
   * [sizemysolar.co.uk](https://github.com/TomNewton1/size_my_solar-2)
   * [Network](https://github.com/TomNewton1/network)
   * [Auction House](https://auction-house-commerce.herokuapp.com/)

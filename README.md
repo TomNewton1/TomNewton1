@@ -11,7 +11,7 @@
   * [Riverlevels Uk](https://riverlevelsuk.herokuapp.com/)
 - You can find examples of my work at https://tomnewton.io/
 
-**My stack**: Python, Django, HTML, CSS, JS
+**My stack**: React, TypeScript, JS, Python, Django, Django REST, HTML, CSS, Firebase
 
 **Connect with me:**
 

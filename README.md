@@ -1,4 +1,4 @@
-**Hi I'm Tom!** 👋  I'm a software developer currenlty working in the wind industry at ONYX Insight.
+**Hi I'm Tom!** 👋  I'm a software developer working in the wind industry at ONYX Insight.
 
 - In my spare time I am working on: 
   * [FretBuddy](https://fretbuddy.io/)

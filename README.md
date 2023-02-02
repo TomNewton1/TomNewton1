@@ -1,7 +1,7 @@
 **Hi I'm Tom!** 👋  I'm a software developer working in the wind industry at ONYX Insight.
 
 - In my spare time I am working on: 
-  * [FretBuddy](https://fretbuddy.io/)
+  * [FretBuddy](https://fretbuddy.io/) a web app to help you learn the notes on the guitar 🎸. 
 
 - Other Projects: 
   * [sizemysolar.co.uk](https://github.com/TomNewton1/size_my_solar-2)

@@ -8,7 +8,7 @@
   * [Network](https://github.com/TomNewton1/network)
   * [Auction House](https://auction-house-commerce.herokuapp.com/)
   * [Mail](https://github.com/TomNewton1/mail)
-  * [Riverlevels Uk](https://riverlevelsuk.herokuapp.com/)
+  * [Riverlevels Uk](https://riverlevels-uk.onrender.com/)
 - You can find examples of my work at https://tomnewton.io/
 
 **My stack**: React, TypeScript, JS, Python, Django, Django REST, HTML, CSS, Firebase
